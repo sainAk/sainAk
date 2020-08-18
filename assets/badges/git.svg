@@ -1,0 +1,84 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   id="svg28"
+   version="1.1"
+   aria-label="Git"
+   role="img"
+   height="20"
+   width="43">
+  <metadata
+     id="metadata34">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title>Git</dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <defs
+     id="defs32" />
+  <title
+     id="title2">Git</title>
+  <linearGradient
+     y2="100%"
+     x2="0"
+     id="s">
+    <stop
+       id="stop4"
+       stop-opacity=".1"
+       stop-color="#bbb"
+       offset="0" />
+    <stop
+       id="stop6"
+       stop-opacity=".1"
+       offset="1" />
+  </linearGradient>
+  <clipPath
+     id="r">
+    <rect
+       id="rect9"
+       fill="#fff"
+       rx="3"
+       height="20"
+       width="43" />
+  </clipPath>
+  <g
+     id="g18"
+     clip-path="url(#r)">
+    <rect
+       y="0"
+       id="rect14"
+       fill="#f05032"
+       height="20"
+       width="43"
+       x="0" />
+  </g>
+  <g
+     id="g26"
+     font-size="110px"
+     text-rendering="geometricPrecision"
+     font-family="Verdana, Geneva, 'DejaVu Sans', sans-serif"
+     text-anchor="middle"
+     fill="#ffffff">
+    <path
+       style="fill:#ffffff;stroke-width:0.583339"
+       d="M 18.735309,9.3760455 12.622496,3.2638152 c -0.352337,-0.3517536 -0.922843,-0.3517536 -1.276347,0 l -1.26643,1.2687632 1.610017,1.6100168 c 0.376254,-0.125418 0.804425,-0.040834 1.101928,0.2572527 0.301003,0.3004197 0.383838,0.7338409 0.255503,1.1083448 l 1.550516,1.5516828 c 0.376254,-0.1300847 0.809092,-0.045501 1.108345,0.2537527 0.420588,0.4200043 0.420588,1.0990108 0,1.5190158 -0.419421,0.419421 -1.097262,0.419421 -1.516683,0 -0.31442,-0.315587 -0.39317,-0.779925 -0.235669,-1.1643455 L 12.501745,8.2239502 V 12.03024 c 0.102667,0.05017 0.199502,0.118417 0.284669,0.203002 0.415921,0.420587 0.415921,1.098428 0,1.516682 -0.419421,0.420588 -1.101928,0.420588 -1.521932,0 -0.419421,-0.419421 -0.419421,-1.096095 0,-1.515516 0.106167,-0.105001 0.225752,-0.184335 0.35292,-0.236835 V 8.1539494 C 11.490817,8.1008655 11.370066,8.0244481 11.267398,7.9200303 10.949478,7.6021104 10.873061,7.1371889 11.036396,6.7481015 L 9.4543794,5.1585016 5.2625027,9.3474618 c -0.3500036,0.3529204 -0.3500036,0.9240092 0,1.2769302 l 6.1133963,6.111647 c 0.352337,0.352337 0.922843,0.352337 1.27518,0 l 6.08423,-6.08423 c 0.352921,-0.351754 0.352921,-0.9228432 0,-1.2757635"
+       id="path873" />
+    <text
+       lengthAdjust="spacing"
+       id="text24"
+       textLength="150"
+       fill="#ffffff"
+       transform="scale(0.1)"
+       y="140"
+       x="305">Git</text>
+  </g>
+</svg>

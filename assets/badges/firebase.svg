@@ -1,0 +1,85 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   id="svg28"
+   version="1.1"
+   aria-label="Firebase"
+   role="img"
+   height="20"
+   width="75">
+  <metadata
+     id="metadata34">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title>Firebase</dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <defs
+     id="defs32" />
+  <title
+     id="title2">Firebase</title>
+  <linearGradient
+     y2="100%"
+     x2="0"
+     id="s">
+    <stop
+       id="stop4"
+       stop-opacity=".1"
+       stop-color="#bbb"
+       offset="0" />
+    <stop
+       id="stop6"
+       stop-opacity=".1"
+       offset="1" />
+  </linearGradient>
+  <clipPath
+     id="r">
+    <rect
+       id="rect9"
+       fill="#fff"
+       rx="3"
+       height="20"
+       width="75" />
+  </clipPath>
+  <g
+     id="g18"
+     clip-path="url(#r)">
+    <rect
+       style="stroke-width:0.999997;fill:#ffa714;fill-opacity:1"
+       y="0"
+       id="rect14"
+       fill="#ffca28"
+       height="20"
+       width="75"
+       x="0" />
+  </g>
+  <g
+     id="g26"
+     font-size="110px"
+     text-rendering="geometricPrecision"
+     font-family="Verdana, Geneva, 'DejaVu Sans', sans-serif"
+     text-anchor="middle"
+     fill="#ffffff">
+    <path
+       style="fill:#ffffff;stroke-width:0.583357"
+       d="M 7.2354332,12.142648 8.6150845,3.2687178 A 0.31618226,0.31617608 0 0 1 9.2071969,3.1683814 L 10.690687,5.9515476 Z M 17.033,14.295796 15.719269,6.1294696 A 0.31676562,0.31675943 0 0 0 15.183742,5.9573811 L 6.9,14.295796 l 4.583477,2.583077 a 0.94504658,0.94502812 0 0 0 0.925795,0 z M 13.308233,7.1695839 12.246514,5.1383567 a 0.31618226,0.31617608 0 0 0 -0.560027,0 L 7.0254229,13.490772 Z"
+       id="path50" />
+    <text
+       lengthAdjust="spacing"
+       id="text24"
+       textLength="470"
+       fill="#ffffff"
+       transform="scale(0.1)"
+       y="140"
+       x="465">Firebase</text>
+  </g>
+</svg>

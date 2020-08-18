@@ -1,0 +1,84 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   id="svg28"
+   version="1.1"
+   aria-label="GitHub"
+   role="img"
+   height="20"
+   width="65">
+  <metadata
+     id="metadata34">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title>GitHub</dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <defs
+     id="defs32" />
+  <title
+     id="title2">GitHub</title>
+  <linearGradient
+     y2="100%"
+     x2="0"
+     id="s">
+    <stop
+       id="stop4"
+       stop-opacity=".1"
+       stop-color="#bbb"
+       offset="0" />
+    <stop
+       id="stop6"
+       stop-opacity=".1"
+       offset="1" />
+  </linearGradient>
+  <clipPath
+     id="r">
+    <rect
+       id="rect9"
+       fill="#fff"
+       rx="3"
+       height="20"
+       width="65" />
+  </clipPath>
+  <g
+     id="g18"
+     clip-path="url(#r)">
+    <rect
+       y="0"
+       id="rect14"
+       fill="#181717"
+       height="20"
+       width="65"
+       x="0" />
+  </g>
+  <g
+     id="g26"
+     font-size="110px"
+     text-rendering="geometricPrecision"
+     font-family="Verdana, Geneva, 'DejaVu Sans', sans-serif"
+     text-anchor="middle"
+     fill="#ffffff">
+    <path
+       style="fill:#ffffff;stroke-width:0.583326"
+       d="m 12,3.15 c -3.8675,0 -7,3.1341706 -7,6.999823 0,3.093338 2.0055,5.716522 4.78625,6.641081 0.35,0.06592 0.478333,-0.150496 0.478333,-0.336574 0,-0.166246 -0.0058,-0.606652 -0.0087,-1.18997 C 8.308717,15.686682 7.89805,14.325217 7.89805,14.325217 7.57955,13.51732 7.1193,13.301493 7.1193,13.301493 c -0.634083,-0.433989 0.049,-0.42524 0.049,-0.42524 0.702917,0.049 1.072167,0.720982 1.072167,0.720982 0.624166,1.07039 1.638583,0.761231 2.03875,0.582152 0.063,-0.452655 0.24325,-0.76123 0.443333,-0.936226 -1.554583,-0.174995 -3.1885,-0.77698 -3.1885,-3.4590793 0,-0.7641472 0.27125,-1.3882981 0.720417,-1.8782856 -0.07875,-0.1767455 -0.315,-0.8883941 0.06125,-1.8526197 0,0 0.58625,-0.1878285 1.925,0.7174818 0.56,-0.155746 1.155,-0.2327441 1.75,-0.236244 0.595,0.0035 1.19,0.080498 1.75,0.236244 1.33,-0.9053103 1.91625,-0.7174818 1.91625,-0.7174818 0.37625,0.9642256 0.14,1.6758742 0.07,1.8526197 0.44625,0.4899875 0.7175,1.1141384 0.7175,1.8782856 0,2.6890993 -1.63625,3.2811673 -3.19375,3.4532453 0.245,0.209995 0.4725,0.639318 0.4725,1.294967 0,0.936811 -0.0087,1.689292 -0.0087,1.916786 0,0.183745 0.1225,0.40249 0.48125,0.332491 2.800583,-0.918143 4.804333,-3.543077 4.804333,-6.631748 0,-3.8656524 -3.13425,-6.999823 -7,-6.999823"
+       id="path50" />
+    <text
+       lengthAdjust="spacing"
+       id="text24"
+       textLength="370"
+       fill="#ffffff"
+       transform="scale(0.1)"
+       y="140"
+       x="415">GitHub</text>
+  </g>
+</svg>

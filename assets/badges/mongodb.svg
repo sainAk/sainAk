@@ -1,0 +1,84 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   width="81"
+   height="20"
+   role="img"
+   aria-label="MongoDB"
+   version="1.1"
+   id="svg28">
+  <metadata
+     id="metadata34">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title>MongoDB</dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <defs
+     id="defs32" />
+  <title
+     id="title2">MongoDB</title>
+  <linearGradient
+     id="s"
+     x2="0"
+     y2="100%">
+    <stop
+       offset="0"
+       stop-color="#bbb"
+       stop-opacity=".1"
+       id="stop4" />
+    <stop
+       offset="1"
+       stop-opacity=".1"
+       id="stop6" />
+  </linearGradient>
+  <clipPath
+     id="r">
+    <rect
+       width="81"
+       height="20"
+       rx="3"
+       fill="#fff"
+       id="rect9" />
+  </clipPath>
+  <g
+     clip-path="url(#r)"
+     id="g18">
+    <rect
+       x="0"
+       width="81"
+       height="20"
+       fill="#47a248"
+       id="rect14"
+       y="0" />
+  </g>
+  <g
+     fill="#ffffff"
+     text-anchor="middle"
+     font-family="Verdana, Geneva, 'DejaVu Sans', sans-serif"
+     text-rendering="geometricPrecision"
+     font-size="110px"
+     id="g26">
+    <path
+       d="M 15.060805,8.5521664 C 14.702311,6.8909545 13.886188,5.3221511 12.651408,4.1441079 12.32897,3.8627071 12.124334,3.2961218 11.969156,3.036163 c -0.01564,0.2144072 -0.05585,0.357166 -0.161884,0.4906041 -0.06736,0.070093 -0.117416,0.1562582 -0.257197,0.2548573 -1.9008702,1.6270416 -2.824334,4.2377927 -2.6139574,6.7053906 0.2014742,1.897741 1.3152274,3.621409 2.8146074,4.76649 0.202738,0.512997 0.229034,1.07574 0.233333,1.621083 0.258085,0.109441 0.496773,0.199685 0.357148,-0.213792 -0.02837,-0.634977 -0.08112,-1.432976 0.575092,-1.779001 1.674608,-1.323581 2.433925,-3.559707 2.232843,-5.6486966 -0.01993,-0.2279902 -0.04903,-0.4559293 -0.08834,-0.680932 z"
+       style="fill:#ffffff;stroke-width:0.583333"
+       id="path50" />
+    <text
+       x="495"
+       y="140"
+       transform="scale(0.1)"
+       fill="#ffffff"
+       textLength="530"
+       id="text24"
+       lengthAdjust="spacing">MongoDB</text>
+  </g>
+</svg>

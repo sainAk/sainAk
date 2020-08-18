@@ -1,0 +1,84 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   id="svg28"
+   version="1.1"
+   aria-label="Insomnia"
+   role="img"
+   height="20"
+   width="79">
+  <metadata
+     id="metadata34">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title>Insomnia</dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <defs
+     id="defs32" />
+  <title
+     id="title2">Insomnia</title>
+  <linearGradient
+     y2="100%"
+     x2="0"
+     id="s">
+    <stop
+       id="stop4"
+       stop-opacity=".1"
+       stop-color="#bbb"
+       offset="0" />
+    <stop
+       id="stop6"
+       stop-opacity=".1"
+       offset="1" />
+  </linearGradient>
+  <clipPath
+     id="r">
+    <rect
+       id="rect9"
+       fill="#fff"
+       rx="3"
+       height="20"
+       width="79" />
+  </clipPath>
+  <g
+     id="g18"
+     clip-path="url(#r)">
+    <rect
+       y="0"
+       id="rect14"
+       fill="#5849be"
+       height="20"
+       width="79"
+       x="0" />
+  </g>
+  <g
+     id="g26"
+     font-size="110px"
+     text-rendering="geometricPrecision"
+     font-family="Verdana, Geneva, 'DejaVu Sans', sans-serif"
+     text-anchor="middle"
+     fill="#ffffff">
+    <path
+       style="fill:#ffffff;stroke-width:0.583333"
+       d="m 12,3 c -3.840083,0 -7,3.1599167 -7,7 0,3.840083 3.159917,7 7,7 3.840083,0 7,-3.159917 7,-7 0,-3.8400833 -3.159917,-7 -7,-7 z m 0,1.4455 c 3.066,0 5.5545,2.4885 5.5545,5.5545 0,3.066 -2.4885,5.5545 -5.5545,5.5545 -3.066,0 -5.5545,-2.4885 -5.5545,-5.5545 0,-0.51625 0.07,-1.0155833 0.202417,-1.4898333 A 2.7766667,2.7766667 0 0 0 8.9375,9.7153333 2.779,2.779 0 0 0 11.715333,6.9375 2.7755,2.7755 0 0 0 10.509583,4.6479167 5.5568333,5.5568333 0 0 1 12,4.4455 Z"
+       id="path50" />
+    <text
+       lengthAdjust="spacing"
+       id="text24"
+       textLength="510"
+       fill="#ffffff"
+       transform="scale(0.1)"
+       y="140"
+       x="485">Insomnia</text>
+  </g>
+</svg>

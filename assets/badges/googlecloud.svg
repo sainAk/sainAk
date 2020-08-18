@@ -1,0 +1,84 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   id="svg28"
+   version="1.1"
+   aria-label="Google Cloud"
+   role="img"
+   height="20"
+   width="101">
+  <metadata
+     id="metadata34">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title>Google Cloud</dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <defs
+     id="defs32" />
+  <title
+     id="title2">Google Cloud</title>
+  <linearGradient
+     y2="100%"
+     x2="0"
+     id="s">
+    <stop
+       id="stop4"
+       stop-opacity=".1"
+       stop-color="#bbb"
+       offset="0" />
+    <stop
+       id="stop6"
+       stop-opacity=".1"
+       offset="1" />
+  </linearGradient>
+  <clipPath
+     id="r">
+    <rect
+       id="rect9"
+       fill="#fff"
+       rx="3"
+       height="20"
+       width="101" />
+  </clipPath>
+  <g
+     id="g18"
+     clip-path="url(#r)">
+    <rect
+       y="0"
+       id="rect14"
+       fill="#4285f4"
+       height="20"
+       width="101"
+       x="0" />
+  </g>
+  <g
+     id="g26"
+     font-size="110px"
+     text-rendering="geometricPrecision"
+     font-family="Verdana, Geneva, 'DejaVu Sans', sans-serif"
+     text-anchor="middle"
+     fill="#ffffff">
+    <path
+       style="fill:#ffffff;stroke-width:0.58334"
+       d="M 12.110808,4.3014633 A 5.4507261,5.4507262 0 0 0 6.7242497,8.3224239 c 0.03092,-0.011667 -0.03208,0.00758 0,0 -2.260442,1.4880995 -2.287859,4.7308841 -0.144085,6.3823191 l 0.0035,-0.0041 -0.0041,0.0175 a 3.9182927,3.9182928 0 0 0 2.378276,0.791008 h 3.0176173 l 0.0175,0.0175 h 3.0287 c 3.900792,0.03092 5.469392,-5.019637 2.237107,-7.2042451 A 5.4629762,5.4629763 0 0 0 15.61318,5.6670616 l -0.02508,0.025084 0.0035,-0.029167 A 5.4507261,5.4507262 0 0 0 12.110808,4.3014633 Z m -0.208835,2.4185264 c 0.725674,-0.023334 1.468849,0.214669 2.033522,0.6708407 a 3.0251997,3.0251998 0 0 1 1.086179,2.3788592 V 10.07186 c 2.059189,-0.04083 2.059189,3.069533 0,3.029282 H 11.99239 l -0.0047,0.0053 v -0.02333 H 8.9578227 a 1.5108498,1.5108498 0 0 1 -0.622423,-0.134169 h 5.83e-4 A 1.5149332,1.5149332 0 1 1 10.340922,10.944006 L 12.098558,9.1869333 A 3.9357929,3.935793 0 0 0 9.7307827,7.719834 c 0.0105,-0.00583 0.02333,-0.015167 0.0315,-0.013417 A 3.0251997,3.0251998 0 0 1 11.90314,6.7205729 Z"
+       id="path50" />
+    <text
+       lengthAdjust="spacing"
+       id="text24"
+       textLength="730"
+       fill="#ffffff"
+       transform="scale(0.1)"
+       y="140"
+       x="595">Google Cloud</text>
+  </g>
+</svg>

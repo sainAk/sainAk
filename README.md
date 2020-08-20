@@ -1,14 +1,29 @@
 <h2> Hi there <img width="25px" src="https://raw.githubusercontent.com/sainAk/sainAk/master/assets/wave.gif"></h2>
 
-<img height="245" align="left" src="https://raw.githubusercontent.com/sainAk/sainAk/master/assets/sora.png">
+<img height="245px" align="left" src="https://raw.githubusercontent.com/sainAk/sainAk/master/assets/sora.png">
 
 <b>Welcome to my profile</b><br />
 🔭 I'm still exploring and pushing myself to gain skills<br />
 🌱 I'm currently learning android MVVM architecture with hilt and building an Android application <br />
 
 <a href="https://github.com/sainAk">
-    <img height="160" src="https://github-readme-stats.vercel.app/api?username=sainAk&count_private=true&theme=onedark&show_icons=true&include_all_commits=true&line_height=20"> <br />
+    <img height="160px" src="https://github-readme-stats.vercel.app/api?username=sainAk&count_private=true&theme=onedark&show_icons=true&include_all_commits=true&line_height=20"> <br />
 </a> <br />
+
+<table align="right">
+<tbody>
+<tr>
+<td>
+<img align="right" width="350px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sainak&hide=html&theme=onedark">
+</td>
+</tr>
+</tbody>
+</table>
+
+<table>
+<tbody>
+<tr>
+<td>
 
 <b>Stuff that I'm familiar with- </b><br />
 <br />
@@ -45,3 +60,7 @@ Platforms and Tools: <br />
 <img src="https://raw.githubusercontent.com/sainAk/sainAk/master/assets/badges/sqlite.svg"><br />
 <img src="https://raw.githubusercontent.com/sainAk/sainAk/master/assets/badges/inkscape.svg">
 <img src="https://raw.githubusercontent.com/sainAk/sainAk/master/assets/badges/figma.svg"><br />
+</td>
+</tr>
+</tbody>
+</table>

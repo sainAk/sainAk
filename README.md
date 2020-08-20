@@ -7,20 +7,20 @@
 🌱 I'm currently learning android MVVM architecture with hilt and building an Android application <br />
 
 <a href="https://github.com/sainAk">
-    <img height="160px" src="https://github-readme-stats.vercel.app/api?username=sainAk&count_private=true&theme=onedark&show_icons=true&include_all_commits=true&line_height=20"> <br />
+    <img height="160px" src="https://github-readme-stats.vercel.app/api?username=sainAk&count_private=true&theme=onedark&title_color=f8ea8b&bg_color=ffffff00&show_icons=true&include_all_commits=true&line_height=20"> <br />
 </a> <br />
 
-<table align="right">
+<table align="right" border="0" bordercolor="#ffffff">
 <tbody>
 <tr>
 <td>
-<img align="right" width="350px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sainak&hide=html&theme=onedark">
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sainak&hide=html&theme=onedark&title_color=f8ea8b&bg_color=ffffff00">
 </td>
 </tr>
 </tbody>
 </table>
 
-<table>
+<table border="0" bordercolor="#ffffff">
 <tbody>
 <tr>
 <td>

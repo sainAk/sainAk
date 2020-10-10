@@ -4,7 +4,7 @@
 
 <b>Welcome to my profile</b><br />
 🔭 I'm still exploring and pushing myself to gain skills<br />
-🌱 I'm currently learning android MVVM architecture with hilt and building an Android application <br />
+🌱 I'm currently learning to build android applications<br />
 
 <a href="https://github.com/sainAk">
     <img height="160px" src="https://github-readme-stats.vercel.app/api?username=sainAk&count_private=true&theme=onedark&title_color=f8ea8b&bg_color=ffffff00&show_icons=true&include_all_commits=true&line_height=20"> <br />

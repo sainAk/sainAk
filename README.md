@@ -14,7 +14,7 @@
 <tbody>
 <tr>
 <td>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sainak&hide=html&theme=onedark&title_color=f8ea8b&bg_color=ffffff00">
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sainak&layout=compact&hide=html&theme=onedark&title_color=f8ea8b&bg_color=ffffff00">
 </td>
 </tr>
 </tbody>
